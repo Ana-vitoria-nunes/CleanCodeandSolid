@@ -10,4 +10,5 @@ fun main() {
     val totalArea = calculos().calculateTotalArea(formList)
     println()
     println("Área total: %.2f".format(totalArea))
+
 }
