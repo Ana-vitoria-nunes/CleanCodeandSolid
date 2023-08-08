@@ -1,6 +1,8 @@
 package Calculo
+
 import Forms.Form
-class calculos() {
+
+class Calculos2 {
     fun calculateTotalArea(form: List<Form>): Double {
         var totalArea = 0.0
 
